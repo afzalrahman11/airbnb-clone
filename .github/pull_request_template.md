@@ -12,8 +12,8 @@
 
 # Checklist:
 
-- [ x] My code follows rubocop styling and formatting conventions
-- [ x ] I have performed a self-review of my code
-- [ x ] I have commented my code, particularly in hard-to-understand areas
-- [ x ] My changes generate no new warnings
+- [x] My code follows rubocop styling and formatting conventions
+- [x] I have performed a self-review of my code
+- [x] I have commented my code, particularly in hard-to-understand areas
+- [x] My changes generate no new warnings
 
